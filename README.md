@@ -1,3 +1,5 @@
+Desenvolvido por: João Victor de Oliveira Ângelo, RA 25002412
+
 # 📂 MODELAGEM DE DADOS E BUSINESS INTELLIGENCE (BI)
 
 ## 🌟 Visão Geral do Projeto
